@@ -1,1 +1,4 @@
-error.log
+*.log
+/ShapeAI_Devashri_Chauhan/
+/dir1/
+static/dir1
