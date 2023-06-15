@@ -1,1 +1,2 @@
-Hello Pyhton
+Devashri Chauhan
+Welcome to the tutorial of Git.
